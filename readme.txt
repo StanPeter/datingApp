@@ -1,5 +1,6 @@
-might be added some heart to the nav-brand
+Another simple landing page consisting only bootstrap3, css3, html5.
 
-code cleaned (css and html)
+Only front end, I will probably do some back end later on.
 
+Use as you wish.
 
